@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redesigned-pancake..iml" filepath="$PROJECT_DIR$/redesigned-pancake..iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redesigned-pancake._main.iml" filepath="$PROJECT_DIR$/.idea/modules/redesigned-pancake._main.iml" group="redesigned-pancake." />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redesigned-pancake._test.iml" filepath="$PROJECT_DIR$/.idea/modules/redesigned-pancake._test.iml" group="redesigned-pancake." />
+    </modules>
+  </component>
+</project>
